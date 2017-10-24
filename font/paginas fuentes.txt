@@ -1,0 +1,4 @@
+typekit.com ///de paga
+https://www.fontsquirrel.com/ ------fuentes gratis
+https://fonts.google.com/
+<link href="https://fonts.googleapis.com/css?family=Modak" rel="stylesheet">
